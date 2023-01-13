@@ -1,16 +1,7 @@
-# reto3_platzi
+# Adding header with ClipPath in Flutter
 
 A new Flutter project.
 
-## Getting Started
+## What is it about?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Header created with the ClipPath widget, which can help to give a shape to a container, in order to have a "wave" design
